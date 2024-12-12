@@ -61,6 +61,8 @@ The slider and buttons on the Adafruit Circuit Playground are used to control th
 - **Slider in (-) position:**
   - **Button B**: Increases the throttle.
   - **Button A**: Decreases the throttle.
+ 
+For weapons, you still need to use the keyboard.
 
 <div align="center">
 
