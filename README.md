@@ -62,14 +62,15 @@ The slider and buttons on the Adafruit Circuit Playground are used to control th
 
 | Slider Position | Control            | Description                                                 | Image                                                                                              |
 |------------------|--------------------|-------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| **(-)**          | **Button B**       | Increases the throttle.                                     | <img src="https://github.com/user-attachments/assets/5c9daca9-ec98-4256-aec8-2641afcab9ed" width="300"> |
-| **(-)**          | **Button A**       | Decreases the throttle.                                     | <img src="https://github.com/user-attachments/assets/5c9daca9-ec98-4256-aec8-2641afcab9ed" width="300"> |
-| **(+)**          | **Button B**       | Yaws the craft to the left.                                 | <img src="https://github.com/user-attachments/assets/e6f64769-b98e-4dd4-8606-295f8ca32e76" width="300"> |
-| **(+)**          | **Button A**       | Yaws the craft to the right.                                | <img src="https://github.com/user-attachments/assets/e6f64769-b98e-4dd4-8606-295f8ca32e76" width="300"> |
+| **(-)**          | **Button B**       | Increases the throttle.                                     | <img src="https://github.com/user-attachments/assets/5c9daca9-ec98-4256-aec8-2641afcab9ed" width="300" rowspan="2"> |
+| **(-)**          | **Button A**       | Decreases the throttle.                                     |                                                                                                   |
+| **(+)**          | **Button B**       | Yaws the craft to the left.                                 | <img src="https://github.com/user-attachments/assets/e6f64769-b98e-4dd4-8606-295f8ca32e76" width="300" rowspan="2"> |
+| **(+)**          | **Button A**       | Yaws the craft to the right.                                |                                                                                                   |
 
 *Table 2: Throttle and Yaw/Rudder controls using the Adafruit Circuit Playground.*
 
 </div>
+
 
 
 ## Audio
