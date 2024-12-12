@@ -1,25 +1,77 @@
-*Starfighter* is a space flight-simulation game where you pilot your aircraft to defend against waves of enemies. At any given time, three enemies will be present on the level, attacking with missiles and cannons. You are equipped with your own missiles and cannons, a more agile spacecraft, and stronger armor.
+# Starfighter: Space Flight-Simulation Game
 
-Your objective is to survive as long as possible while destroying as many enemies as possible. Each missile hit earns you 50 points, and cannon hits give you 40 points. Destroying an enemy grants an additional 100 points. Enemies can be taken down with either two missile hits or three cannon hits. Keep playing to test your skills and achieve the highest score.
+**Starfighter** is an exciting space flight-simulation game where you pilot your aircraft to defend against waves of enemies. 
 
-You control your spacecraft using keyboard keys. Use the arrow keys to adjust roll and pitch, A and D for yaw, and W and S to manage the throttle. Press Space to fire missiles and Left Ctrl to fire the cannon.
+## Gameplay Overview
+At any given time, three enemies will be present on the level, attacking with missiles and cannons. You are equipped with:
+- Missiles
+- Cannons
+- A more agile spacecraft
+- Stronger armor
 
-For more precise control, you can use the Adafruit Circuit Playground. Tilting the device left or right adjusts the roll, while tilting it forward or backward controls the pitch of the spacecraft.
+Your goal is to survive as long as possible while destroying as many enemies as you can.
+
+### Scoring System
+- **Missile hit**: 50 points  
+- **Cannon hit**: 40 points  
+- **Enemy destroyed**: 100 points  
+
+Enemies can be destroyed with:
+- **2 missile hits**, or  
+- **3 cannon hits**  
+
+Test your skills and aim for the highest score!
+
+---
+
+## Controls
+
+### Keyboard Controls
+- **Arrow Keys**: Adjust roll and pitch  
+- **A/D Keys**: Yaw (rudder) control  
+- **W/S Keys**: Adjust throttle  
+- **Space**: Fire missiles  
+- **Left Ctrl**: Fire cannon  
+
+### Adafruit Circuit Playground Controls
+For precise control, you can use the Adafruit Circuit Playground:
 
 <div align="center">
 
-![Pitch Control](https://github.com/user-attachments/assets/3e2acf3e-7ec1-42dd-ac47-97b876746d3e)
-
+![Pitch Control](https://github.com/user-attachments/assets/3e2acf3e-7ec1-42dd-ac47-97b876746d3e)  
 *Figure 1: Controlling pitch by tilting the Adafruit Circuit Playground forward or backward.*
 
-![Roll Control](https://github.com/user-attachments/assets/10ce97eb-27b1-4923-b2a4-57c792c0a2e9)
-
+![Roll Control](https://github.com/user-attachments/assets/10ce97eb-27b1-4923-b2a4-57c792c0a2e9)  
 *Figure 2: Controlling roll by tilting the Adafruit Circuit Playground left or right.*
 
 </div>
 
+#### Throttle and Yaw/Rudder Controls
+The slider and buttons on the Adafruit Circuit Playground are used to control throttle and yaw:
 
+- **Slider in (-) position:**
+  - **Button B**: Increases the throttle.
+  - **Button A**: Decreases the throttle.
 
+<div align="center">
 
+![Throttle Control](https://github.com/user-attachments/assets/5c9daca9-ec98-4256-aec8-2641afcab9ed)  
+*Figure 3: Throttle control with the slider in the (-) position.*
 
+</div>
 
+- **Slider in (+) position:**
+  - **Button B**: Yaws the craft to the left.
+  - **Button A**: Yaws the craft to the right.
+
+<div align="center">
+
+![Yaw Control](https://github.com/user-attachments/assets/e6f64769-b98e-4dd4-8606-295f8ca32e76)  
+*Figure 4: Yaw control with the slider in the (+) position.*
+
+</div>
+
+---
+
+## Summary
+Play **Starfighter** to test your piloting skills, destroy waves of enemies, and achieve the highest score. Choose between keyboard controls for simplicity or Adafruit Circuit Playground for precision. Good luck, pilot!
