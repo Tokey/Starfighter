@@ -1,7 +1,7 @@
 # Starfighter: Space Flight-Simulation Game
 
 **Starfighter** is a space flight-simulation game where you pilot your aircraft to defend against waves of enemies. Experience intense aerial combat, precise controls, and an engaging scoring system as you test your skills.
-
+[![Starfighter Demo](https://img.youtube.com/vi/m6AmVoCkLd4/0.jpg)](https://youtu.be/m6AmVoCkLd4)
 ---
 
 ## Features
