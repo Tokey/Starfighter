@@ -32,10 +32,6 @@
 - **Leaderboard Potential**: Compete for the highest score by taking down waves of enemies.
 
 
-Here’s the improved version in proper README.md format:
-
-markdown
-Copy code
 ### HUD (Heads-Up Display)
 
 The HUD provides critical information to help you navigate and engage in combat effectively.
@@ -49,7 +45,7 @@ The HUD provides critical information to help you navigate and engage in combat 
 
 #### Regular HUD
 - **Left Side**:
-  - **542**: Displays the current speed of the plane.
+  - **Speed**: The first number from the top, displays the current speed of the plane.
   - **Angle of Attack**: Shown below the speed.
   - **G-Force**: Indicates the G-forces experienced in the cockpit.  
 - **Right Side**:
@@ -62,6 +58,8 @@ The HUD provides critical information to help you navigate and engage in combat 
     - **Blue**: Furthest enemy.
     - **Yellow**: Enemy in the middle.
 
+---
+
 <div align="center">
 
 ![Missile Locked](https://github.com/user-attachments/assets/ceec4755-f4b8-4fa2-a0c9-f8e0926d4b36)  
@@ -69,13 +67,18 @@ The HUD provides critical information to help you navigate and engage in combat 
 
 </div>
 
-#### Missile Lock Warning
+#### Missile Lock Warning and Enemy Targeting
 - When an enemy locks onto you:
   - The HUD background turns **red** as an alert.
 - When a missile is fired at you:
   - A **red arrow** indicates the direction of the incoming missile.
+    
+- **Enemy Targeting**:
+  - A **box** is drawn around the targeted enemy when locked on.
+  - The box turns **red** when a locked missile is fired.
 
 ---
+
 
 
 ### Controls
