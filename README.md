@@ -96,23 +96,34 @@ The HUD provides information to help you navigate and engage in combat effective
 ### Adafruit Circuit Playground Controls
 For precise control, you can use the Adafruit Circuit Playground:
 
-#### Pitch and Roll Controls
+<div align="center">
 
 | Control       | Description                                                                                 | Image                                                                                              |
 |---------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| **Pitch**     | Tilting the Adafruit Circuit Playground forward or backward to control pitch.               | ![Pitch](https://github.com/user-attachments/assets/3e2acf3e-7ec1-42dd-ac47-97b876746d3e)          |
-| **Roll**      | Tilting the Adafruit Circuit Playground left or right to control roll.                      | ![Roll](https://github.com/user-attachments/assets/10ce97eb-27b1-4923-b2a4-57c792c0a2e9)           |
+| **Pitch**     | Tilting the Adafruit Circuit Playground forward or backward to control pitch.               | <img src="https://github.com/user-attachments/assets/3e2acf3e-7ec1-42dd-ac47-97b876746d3e" width="300"> |
+| **Roll**      | Tilting the Adafruit Circuit Playground left or right to control roll.                      | <img src="https://github.com/user-attachments/assets/10ce97eb-27b1-4923-b2a4-57c792c0a2e9" width="300"> |
+
+*Table 1: Pitch and Roll controls with the Adafruit Circuit Playground.*
+
+</div>
+
+---
 
 #### Throttle and Yaw/Rudder Controls
+The slider and buttons on the Adafruit Circuit Playground are used to control throttle and yaw:
+
+<div align="center">
 
 | Slider Position | Control            | Description                                                 | Image                                                                                              |
 |------------------|--------------------|-------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| **(-)**          | **Button B**       | Increases the throttle.                                     | ![Throttle](https://github.com/user-attachments/assets/5c9daca9-ec98-4256-aec8-2641afcab9ed)       |
+| **(-)**          | **Button B**       | Increases the throttle.                                     | <img src="https://github.com/user-attachments/assets/5c9daca9-ec98-4256-aec8-2641afcab9ed" width="300" rowspan="2"> |
 | **(-)**          | **Button A**       | Decreases the throttle.                                     |                                                                                                   |
-| **(+)**          | **Button B**       | Yaws the craft to the left.                                 | ![Yaw](https://github.com/user-attachments/assets/e6f64769-b98e-4dd4-8606-295f8ca32e76)           |
+| **(+)**          | **Button B**       | Yaws the craft to the left.                                 | <img src="https://github.com/user-attachments/assets/e6f64769-b98e-4dd4-8606-295f8ca32e76" width="300" rowspan="2"> |
 | **(+)**          | **Button A**       | Yaws the craft to the right.                                |                                                                                                   |
 
----
+*Table 2: Throttle and Yaw/Rudder controls using the Adafruit Circuit Playground.*
+
+</div>
 
 
 
