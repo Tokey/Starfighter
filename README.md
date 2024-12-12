@@ -143,4 +143,8 @@ For precise control, you can use the Adafruit Circuit Playground:
 Play **Starfighter** to test your piloting skills, destroy waves of enemies, and achieve the highest score. Choose between traditional keyboard controls or the precision of the Adafruit Circuit Playground for a tailored experience. Engage in immersive gameplay with immersive visuals and 3D audio.
 
 ---
+
+This project uses the project shown in this tutorial as base: https://www.youtube.com/watch?v=7vAHo2B1zLc&t
+
+---
 Download: https://github.com/Tokey/Starfighter/releases/tag/v12.12.24
