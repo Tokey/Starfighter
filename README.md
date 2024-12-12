@@ -134,15 +134,6 @@ The slider and buttons on the Adafruit Circuit Playground are used to control th
 
 ---
 
-## Additional Features
-- **Main Menu**: A functional main menu for navigating the game.
-- **Game Over State**: Defined states for when the player is defeated.
-- **Enhanced Gameplay**:
-  - Detection of all enemies in the scene for better tracking.
-  - Differentiated enemy types with unique stats.
-
----
-
 Play **Starfighter** to test your piloting skills, destroy waves of enemies, and achieve the highest score. Choose between traditional keyboard controls or the precision of the Adafruit Circuit Playground for a tailored experience. Engage in immersive gameplay with immersive visuals and 3D audio.
 
 ---
