@@ -39,17 +39,8 @@
 - **Space**: Fire missiles.
 - **Left Ctrl**: Fire cannon.
 
-#### Adafruit Circuit Playground
-- **Precise Controls**:
-  - Tilt left/right to control roll.
-  - Tilt forward/backward to control pitch.
-- **Slider and Button Features**:
-  - Slider in (-) position:
-    - Button B: Increase throttle.
-    - Button A: Decrease throttle.
-  - Slider in (+) position:
-    - Button B: Yaw left.
-    - Button A: Yaw right.
+### Adafruit Circuit Playground Controls
+For precise control, you can use the Adafruit Circuit Playground:
 
 <div align="center">
 
@@ -64,6 +55,32 @@
 <img src="https://github.com/user-attachments/assets/10ce97eb-27b1-4923-b2a4-57c792c0a2e9" width="300">
 <br>
 *Figure 2: Controlling roll by tilting the Adafruit Circuit Playground left or right.*
+</td>
+</tr>
+</table>
+
+</div>
+
+#### Throttle and Yaw/Rudder Controls
+The slider and buttons on the Adafruit Circuit Playground are used to control throttle and yaw:
+
+- **Slider in (-) position:**
+  - **Button B**: Increases the throttle.
+  - **Button A**: Decreases the throttle.
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/5c9daca9-ec98-4256-aec8-2641afcab9ed" width="300">
+<br>
+*Figure 3: Throttle control with the slider in the (-) position.*
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/e6f64769-b98e-4dd4-8606-295f8ca32e76" width="300">
+<br>
+*Figure 4: Yaw control with the slider in the (+) position.*
 </td>
 </tr>
 </table>
