@@ -18,8 +18,8 @@
   - The planet and black hole rotate over time, creating a sense of immersion.
 
 ### Player Aircraft
-- **Agile Controls**: The spacecraft is designed for smooth maneuverability and precise handling.
-- **Enhanced Durability**: The player’s spacecraft is equipped with advanced armor to sustain intense combat.
+- **Agile Controls**: The spacecraft is designed for smooth manoeuvrability and precise handling.
+- **Enhanced Durability**: The player’s spacecraft is equipped with advanced armour to sustain intense combat.
 - **Dynamic Lighting**: Real-time lighting effects enhance the visuals of the player’s aircraft.
 
 ### Enemy Aircraft and Gameplay
