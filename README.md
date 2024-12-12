@@ -144,3 +144,6 @@ The slider and buttons on the Adafruit Circuit Playground are used to control th
 ---
 
 Play **Starfighter** to test your piloting skills, destroy waves of enemies, and achieve the highest score. Choose between traditional keyboard controls or the precision of the Adafruit Circuit Playground for a tailored experience. Engage in immersive gameplay with immersive visuals and 3D audio.
+
+---
+Download: https://github.com/Tokey/Starfighter/releases/tag/v12.12.24
