@@ -43,12 +43,12 @@ For precise control, you can use the Adafruit Circuit Playground:
 <td align="center">
 <img src="https://github.com/user-attachments/assets/3e2acf3e-7ec1-42dd-ac47-97b876746d3e" width="300">
 <br>
-*Figure 1: Controlling pitch by tilting the Adafruit Circuit Playground forward or backward.*
+Figure 1: Controlling pitch by tilting the Adafruit Circuit Playground forward or backward.
 </td>
 <td align="center">
 <img src="https://github.com/user-attachments/assets/10ce97eb-27b1-4923-b2a4-57c792c0a2e9" width="300">
 <br>
-*Figure 2: Controlling roll by tilting the Adafruit Circuit Playground left or right.*
+Figure 2: Controlling roll by tilting the Adafruit Circuit Playground left or right.
 </td>
 </tr>
 </table>
@@ -69,12 +69,12 @@ The slider and buttons on the Adafruit Circuit Playground are used to control th
 <td align="center">
 <img src="https://github.com/user-attachments/assets/5c9daca9-ec98-4256-aec8-2641afcab9ed" width="300">
 <br>
-*Figure 3: Throttle control with the slider in the (-) position.*
+Figure 3: Throttle control with the slider in the (-) position.
 </td>
 <td align="center">
 <img src="https://github.com/user-attachments/assets/e6f64769-b98e-4dd4-8606-295f8ca32e76" width="300">
 <br>
-*Figure 4: Yaw control with the slider in the (+) position.*
+Figure 4: Yaw control with the slider in the (+) position.
 </td>
 </tr>
 </table>
@@ -84,4 +84,4 @@ The slider and buttons on the Adafruit Circuit Playground are used to control th
 ---
 
 ## Summary
-Play **Starfighter** to test your piloting skills, destroy waves of enemies, and achieve the highest score. Choose between keyboard controls for simplicity or Adafruit Circuit Playground for precision. Good luck, pilot!
+Play **Starfighter** to test your skills, destroy waves of enemies, and achieve the highest score. Choose between keyboard controls for simplicity or Adafruit Circuit Playground for precision. Good luck!
