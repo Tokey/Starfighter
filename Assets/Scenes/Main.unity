@@ -1285,9 +1285,13 @@ PrefabInstance:
       propertyPath: name
       value: Armageddon
       objectReference: {fileID: 0}
+    - target: {fileID: 3657721933575621385, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: da51c40235f7fcc47812a1e6f2c6df0a, type: 2}
     - target: {fileID: 3737572916587997159, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
       propertyPath: maxSpeed
-      value: 500
+      value: 525
       objectReference: {fileID: 0}
     - target: {fileID: 3737572916587997159, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
       propertyPath: steeringSpeed
@@ -1298,12 +1302,24 @@ PrefabInstance:
       value: 90
       objectReference: {fileID: 0}
     - target: {fileID: 3737572916587997159, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
+      propertyPath: groundAvoidanceAngle
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 3737572916587997159, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
       propertyPath: missileFiringCooldown
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3737572916587997159, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
       propertyPath: missileLockFiringDelay
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3737572916587997159, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
+      propertyPath: groundAvoidanceMaxSpeed
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 3737572916587997159, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
+      propertyPath: groundAvoidanceMinSpeed
+      value: 300
       objectReference: {fileID: 0}
     - target: {fileID: 5515725321500408573, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
       propertyPath: m_RootOrder
@@ -1349,6 +1365,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5730748780101204830, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 63c277894672e024897840a609c424ca, type: 2}
+    - target: {fileID: 7409007733480097166, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 59953f7353e764d428a2cb38205b3ec3, type: 2}
     - target: {fileID: 8849735085998360814, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
       propertyPath: m_Name
       value: EnemyF15 (1)
@@ -9476,9 +9500,13 @@ PrefabInstance:
       propertyPath: name
       value: Nebula
       objectReference: {fileID: 0}
+    - target: {fileID: 3602783313260952736, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 277a4092b6ae84cc6970d7a21ac55f7f, type: 3}
     - target: {fileID: 3737572916587997159, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
       propertyPath: maxSpeed
-      value: 500
+      value: 525
       objectReference: {fileID: 0}
     - target: {fileID: 3737572916587997159, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
       propertyPath: steeringSpeed
@@ -9489,6 +9517,10 @@ PrefabInstance:
       value: 90
       objectReference: {fileID: 0}
     - target: {fileID: 3737572916587997159, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
+      propertyPath: groundAvoidanceAngle
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 3737572916587997159, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
       propertyPath: missileFiringCooldown
       value: 0
       objectReference: {fileID: 0}
@@ -9496,6 +9528,18 @@ PrefabInstance:
       propertyPath: missileLockFiringDelay
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3737572916587997159, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
+      propertyPath: groundAvoidanceMaxSpeed
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 3737572916587997159, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
+      propertyPath: groundAvoidanceMinSpeed
+      value: 300
+      objectReference: {fileID: 0}
+    - target: {fileID: 5254364840220983912, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 63c277894672e024897840a609c424ca, type: 2}
     - target: {fileID: 5515725321500408573, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -9540,6 +9584,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5730748780101204830, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 59953f7353e764d428a2cb38205b3ec3, type: 2}
     - target: {fileID: 8849735085998360814, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
       propertyPath: m_Name
       value: EnemyF15
@@ -14857,6 +14905,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 369926998889339833, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 63c277894672e024897840a609c424ca, type: 2}
     - target: {fileID: 1030071069971577036, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
       propertyPath: health
       value: 100
@@ -14877,13 +14929,17 @@ PrefabInstance:
       propertyPath: damageEffect
       value: 
       objectReference: {fileID: 1244911352}
+    - target: {fileID: 2322639782884279842, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 59953f7353e764d428a2cb38205b3ec3, type: 2}
     - target: {fileID: 2515223684704408108, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
       propertyPath: name
       value: Apocalypse
       objectReference: {fileID: 0}
     - target: {fileID: 3737572916587997159, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
       propertyPath: maxSpeed
-      value: 500
+      value: 525
       objectReference: {fileID: 0}
     - target: {fileID: 3737572916587997159, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
       propertyPath: steeringSpeed
@@ -14894,6 +14950,10 @@ PrefabInstance:
       value: 90
       objectReference: {fileID: 0}
     - target: {fileID: 3737572916587997159, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
+      propertyPath: groundAvoidanceAngle
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 3737572916587997159, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
       propertyPath: missileFiringCooldown
       value: 0
       objectReference: {fileID: 0}
@@ -14901,6 +14961,18 @@ PrefabInstance:
       propertyPath: missileLockFiringDelay
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3737572916587997159, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
+      propertyPath: groundAvoidanceMaxSpeed
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 3737572916587997159, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
+      propertyPath: groundAvoidanceMinSpeed
+      value: 300
+      objectReference: {fileID: 0}
+    - target: {fileID: 5254364840220983912, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 59953f7353e764d428a2cb38205b3ec3, type: 2}
     - target: {fileID: 5515725321500408573, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -14945,9 +15017,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6237894408360720180, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 59953f7353e764d428a2cb38205b3ec3, type: 2}
+    - target: {fileID: 7922172098410255018, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: e33f1e8091de82148acee723c2ccf018, type: 2}
     - target: {fileID: 8849735085998360814, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
       propertyPath: m_Name
       value: EnemyF15 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8849735085998360814, guid: eaad186b43ee18a4fb4e9385ba7b9ae3, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

@@ -103,6 +103,7 @@ public class AIController : MonoBehaviour {
 
         dodgeOffsets = new List<Vector3>();
         inputQueue = new Queue<ControlInput>();
+        Cursor.visible = false;
     }
 
     Vector3 AvoidGround() {

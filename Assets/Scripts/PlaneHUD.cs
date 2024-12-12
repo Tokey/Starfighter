@@ -445,7 +445,6 @@ public class PlaneHUD : MonoBehaviour {
                 isDead = true;
                 SaveHighScore(gameManager.score);
                 LoadHighScore();
-                //plane.gameObject.SetActive(false);
             }
 
         }

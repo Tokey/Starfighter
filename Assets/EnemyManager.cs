@@ -62,7 +62,7 @@ public class EnemyManager : MonoBehaviour
         float xOffset = distance * Mathf.Cos(angleRad);
         float zOffset = distance * Mathf.Sin(angleRad);
 
-        return new Vector3(playerPosition.x + xOffset, playerPosition.y+200, playerPosition.z + zOffset);
+        return new Vector3(playerPosition.x + xOffset, playerPosition.y+1000, playerPosition.z + zOffset);
     }
 
     public void SpawnNavMeshAgent(GameObject agentPrefab, Vector3 desiredPosition)
