@@ -96,6 +96,8 @@ The HUD provides information to help you navigate and engage in combat effective
 ### Adafruit Circuit Playground Controls
 For precise control, you can use the Adafruit Circuit Playground:
 
+#### Pitch and Roll Controls
+
 <div align="center">
 
 | Control       | Description                                                                                 | Image                                                                                              |
@@ -110,20 +112,20 @@ For precise control, you can use the Adafruit Circuit Playground:
 ---
 
 #### Throttle and Yaw/Rudder Controls
-The slider and buttons on the Adafruit Circuit Playground are used to control throttle and yaw:
 
 <div align="center">
 
 | Slider Position | Control            | Description                                                 | Image                                                                                              |
 |------------------|--------------------|-------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
 | **(-)**          | **Button B**       | Increases the throttle.                                     | <img src="https://github.com/user-attachments/assets/5c9daca9-ec98-4256-aec8-2641afcab9ed" width="300" rowspan="2"> |
-| **(-)**          | **Button A**       | Decreases the throttle.                                     |                                                                                                   |
+|                  | **Button A**       | Decreases the throttle.                                     |                                                                                                   |
 | **(+)**          | **Button B**       | Yaws the craft to the left.                                 | <img src="https://github.com/user-attachments/assets/e6f64769-b98e-4dd4-8606-295f8ca32e76" width="300" rowspan="2"> |
-| **(+)**          | **Button A**       | Yaws the craft to the right.                                |                                                                                                   |
+|                  | **Button A**       | Yaws the craft to the right.                                |                                                                                                   |
 
 *Table 2: Throttle and Yaw/Rudder controls using the Adafruit Circuit Playground.*
 
 </div>
+
 
 
 
