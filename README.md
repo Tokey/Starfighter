@@ -31,6 +31,53 @@
   - Enemy kill: 100 points
 - **Leaderboard Potential**: Compete for the highest score by taking down waves of enemies.
 
+
+Here’s the improved version in proper README.md format:
+
+markdown
+Copy code
+### HUD (Heads-Up Display)
+
+The HUD provides critical information to help you navigate and engage in combat effectively.
+
+<div align="center">
+
+![Regular UI](https://github.com/user-attachments/assets/b1921473-fe3f-4a71-88d9-da7de056445c)  
+*Figure 1: Regular HUD displaying speed, angle of attack, G-force, altitude, and enemy indicators.*
+
+</div>
+
+#### Regular HUD
+- **Left Side**:
+  - **542**: Displays the current speed of the plane.
+  - **Angle of Attack**: Shown below the speed.
+  - **G-Force**: Indicates the G-forces experienced in the cockpit.  
+- **Right Side**:
+  - **Altitude**: Represents the distance to the nearest planet.
+- **Top**:
+  - **Compass**: Helps with navigation.
+- **Enemy Indicators**:
+  - Three arrows show the relative positions of nearby enemies:
+    - **Green**: Closest enemy.
+    - **Blue**: Furthest enemy.
+    - **Yellow**: Enemy in the middle.
+
+<div align="center">
+
+![Missile Locked](https://github.com/user-attachments/assets/ceec4755-f4b8-4fa2-a0c9-f8e0926d4b36)  
+*Figure 2: HUD alert showing a missile lock and an incoming missile indicated by a red arrow.*
+
+</div>
+
+#### Missile Lock Warning
+- When an enemy locks onto you:
+  - The HUD background turns **red** as an alert.
+- When a missile is fired at you:
+  - A **red arrow** indicates the direction of the incoming missile.
+
+---
+
+
 ### Controls
 #### Keyboard Controls
 - **Arrow Keys**: Adjust roll and pitch.
@@ -76,6 +123,7 @@ The slider and buttons on the Adafruit Circuit Playground are used to control th
 ## Audio
 - **3D Sound Effects**: Dynamic audio for missiles and the jet engine, with pitch and volume adjusting based on throttle.
 - **Additional SFX**:
+  - Enemy Missile lock SFX
   - Explosions
   - Cannon fire
   - Ambiance
