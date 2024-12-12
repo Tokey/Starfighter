@@ -34,7 +34,7 @@
 
 ### HUD (Heads-Up Display)
 
-The HUD provides critical information to help you navigate and engage in combat effectively.
+The HUD provides information to help you navigate and engage in combat effectively.
 
 <div align="center">
 
